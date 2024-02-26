@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h2> Software Development Projects:</h2>
 
 - <b>Flutter mobile App</b>
-  - [Praciting mobile app dev with Dart](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting mobile app dev with Dart](https://github.com/Shongwe/Flutter-App-with-Asp.Net-core-web-API-as-backend)
 
 <h2> Certifications</h2>
 
