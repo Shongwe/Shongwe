@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2> Software Development Projects:</h2>
+- <b>AI Fingerprint Detector</b>  
+  - [Forensic tool for detecting synthetic media using handcrafted features and interpretable ML](https://github.com/Shongwe/Forensic_Tool)
 
 - <b>Flutter mobile App</b>
   - [Praciting mobile app dev with Dart](https://github.com/Shongwe/flutter_App)
