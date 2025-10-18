@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <h2>Software Development Projects:</h2>
 
+- <b>NRAST: Network Risk Analysis Tool</b>  
+  - [Excel-based risk scoring tool](https://github.com/Shongwe/nrast)
 - <b>AI Fingerprint Detector</b>  
   - [Dust for AI fingerprints](https://github.com/Shongwe/Forensic_Tool)
 - <b>Flutter Mobile App</b>  
