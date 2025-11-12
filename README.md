@@ -1,6 +1,6 @@
 ### Hi, I'm Senzosenkosi 👋
 
-Welcome to my GitHub profile! I'm a Computer Science & Software Engineering graduate with a passion for cybersecurity, data science, and full-stack development. I specialize in forensic-grade debugging, reproducible ML pipelines, and transparent IDS models for IoT networks.
+Welcome to my GitHub profile! I'm a Computer Science & Software Engineering graduate with a passion for cybersecurity, data science, and full-stack development.
 
 ---
 
