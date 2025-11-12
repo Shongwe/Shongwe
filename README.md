@@ -1,34 +1,35 @@
-### Hi I'm Senzosenkosi 👋
+### Hi, I'm Senzosenkosi 👋
 
-<!--
-**Shongwe/Shongwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Computer Science & Software Engineering graduate with a passion for cybersecurity, data science, and full-stack development. I specialize in forensic-grade debugging, reproducible ML pipelines, and transparent IDS models for IoT networks.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
 
-<h2>Software Development Projects:</h2>
--<b>Intrusion Detection System</b>
-  - [Machine Learning based IDS](https://github.com/Shongwe/Deliverable9)
-- <b>NRAST: Network Risk Analysis Tool</b>  
-  - [Excel-based risk scoring tool](https://github.com/Shongwe/nrast)
-- <b>AI Fingerprint Detector</b>  
-  - [Dust for AI fingerprints](https://github.com/Shongwe/Forensic_Tool)
-- <b>Flutter Mobile App</b>  
-  - [Practicing mobile app dev with Dart](https://github.com/Shongwe/flutter_App)
+- **Intrusion Detection System**  
+  [Machine Learning-based IDS](https://github.com/Shongwe/Deliverable9)  
+  A modular IDS built for Docker LAN simulations using scikit-learn and forensic traffic analysis.
 
-<h2>Certifications</h2>
+- **NRAST: Network Risk Analysis Tool**  
+  [Excel-based Risk Scoring Tool](https://github.com/Shongwe/nrast)  
+  Implements NIST SP 800-30 Rev. 1 methodology for network risk profiling.
 
-<h2>Connect with me:</h2>
+- **AI Fingerprint Detector**  
+  [Dust for AI Fingerprints](https://github.com/Shongwe/Forensic_Tool)  
+  A forensic tool for identifying AI-generated content using entropy and pattern analysis.
 
+- **Flutter Mobile App**  
+  [Practicing Mobile App Dev with Dart](https://github.com/Shongwe/flutter_App)  
+  A hands-on mobile app built to explore UI/UX and backend integration with Firebase.
+
+---
+
+### Certifications
+Coming soon — currently curating a list of verified credentials in cybersecurity, data science, and cloud computing.
+
+---
+
+### Connect with Me
 [<img align="left" alt="Shongwe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/senzosenkosi-s-shongwe
