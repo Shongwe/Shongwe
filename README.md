@@ -18,9 +18,9 @@ Welcome to my GitHub profile! I'm a Computer Science & Software Engineering grad
   [Dust for AI Fingerprints](https://github.com/Shongwe/Forensic_Tool)  
   A forensic tool for identifying AI-generated content using entropy and pattern analysis.
 
-- **Flutter Mobile App**  
-  [Practicing Mobile App Dev with Dart](https://github.com/Shongwe/Final_Year_Project)  
-  A hands-on mobile app built to explore UI/UX and backend integration with Firebase.
+- **Final year project**  
+  [Car rental web app](https://github.com/Shongwe/Final_Year_Project)  
+  A hands-on web + mobile app built to explore UI/UX and backend using ASP .NET.
 
 ---
 
