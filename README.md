@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a Computer Science & Software Engineering grad
   A forensic tool for identifying AI-generated content using entropy and pattern analysis.
 
 - **Flutter Mobile App**  
-  [Practicing Mobile App Dev with Dart](https://github.com/Shongwe/flutter_App)  
+  [Practicing Mobile App Dev with Dart](https://github.com/Shongwe/Final_Year_Project)  
   A hands-on mobile app built to explore UI/UX and backend integration with Firebase.
 
 ---
