@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a Computer Science & Software Engineering grad
 ### Featured Projects
 
 - **Church Official Website** ⛪  
-  [Live Church Portal](https://github.com/Shongwe/simplewebsite)  
+  [Church Portal](https://github.com/Shongwe/simplewebsite)  
   A responsive web platform for a local congregation featuring a real-time "Live Now" status indicator, automated Facebook API/Plugin integration for sermon archives, and an interactive event registration system.
 
 - **Intrusion Detection System** [Machine Learning-based IDS](https://github.com/Shongwe/Deliverable9)  
