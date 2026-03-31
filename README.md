@@ -6,20 +6,20 @@ Welcome to my GitHub profile! I'm a Computer Science & Software Engineering grad
 
 ### Featured Projects
 
-- **Intrusion Detection System**  
-  [Machine Learning-based IDS](https://github.com/Shongwe/Deliverable9)  
+- **FEA Gundvwini Official Website** ⛪  
+  [Live Church Portal](https://github.com/Shongwe/simplewebsite)  
+  A responsive web platform for a local congregation featuring a real-time "Live Now" status indicator, automated Facebook API/Plugin integration for sermon archives, and an interactive event registration system.
+
+- **Intrusion Detection System** [Machine Learning-based IDS](https://github.com/Shongwe/Deliverable9)  
   A modular IDS built for Docker LAN simulations using scikit-learn and forensic traffic analysis.
 
-- **NRAST: Network Risk Analysis Tool**  
-  [Excel-based Risk Scoring Tool](https://github.com/Shongwe/nrast)  
+- **NRAST: Network Risk Analysis Tool** [Excel-based Risk Scoring Tool](https://github.com/Shongwe/nrast)  
   Implements NIST SP 800-30 Rev. 1 methodology for network risk profiling.
 
-- **AI Fingerprint Detector**  
-  [Dust for AI Fingerprints](https://github.com/Shongwe/Forensic_Tool)  
+- **AI Fingerprint Detector** [Dust for AI Fingerprints](https://github.com/Shongwe/Forensic_Tool)  
   A forensic tool for identifying AI-generated content using entropy and pattern analysis.
 
-- **Final year project**  
-  [Car rental web app](https://github.com/Shongwe/Final_Year_Project)  
+- **Final year project** [Car rental web app](https://github.com/Shongwe/Final_Year_Project)  
   A hands-on web + mobile app built to explore UI/UX and backend using ASP .NET.
 
 ---
